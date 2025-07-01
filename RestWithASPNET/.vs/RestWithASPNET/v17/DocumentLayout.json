@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manerico\\Desktop\\Projects\\Rest ASP-Net\\RestWithASP-NET\\RestWithASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5541BE-D77A-43B9-B499-155EFF2E3EB0}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\manerico\\desktop\\projects\\rest asp-net\\restwithasp-net\\restwithaspnet\\restwithaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5541BE-D77A-43B9-B499-155EFF2E3EB0}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5541BE-D77A-43B9-B499-155EFF2E3EB0}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\manerico\\desktop\\projects\\rest asp-net\\restwithasp-net\\restwithaspnet\\restwithaspnet\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5541BE-D77A-43B9-B499-155EFF2E3EB0}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\Rest ASP-Net\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Program.cs",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\Rest ASP-Net\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\Program.cs",
+              "RelativeToolTip": "RestWithASPNET\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T13:25:59.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\Rest ASP-Net\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\Rest ASP-Net\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\WeatherForecast.cs",
+              "RelativeToolTip": "RestWithASPNET\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T13:25:49.817Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
