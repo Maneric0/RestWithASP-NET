@@ -1,6 +1,6 @@
 ﻿using RestWithASPNET.Model;
 
-namespace RestWithASPNET.Services.Implementations
+namespace RestWithASPNET.Services
 {
     public interface IPersonService
     {
