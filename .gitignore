@@ -52,3 +52,22 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Ignore arquivos da pasta .vs (Visual Studio)
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+
+# Rider
+.idea/
+
+# Arquivos temporários
+*.db-shm
+*.db-wal
+*.vsidx
